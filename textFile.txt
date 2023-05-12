@@ -1,1 +1,1 @@
-create conflict this is my dummy textFile
+This is my master textFile.txt
